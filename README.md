@@ -1,4 +1,4 @@
-![기말발표7](https://github.com/Orang2E/wishWith-final/assets/113418916/1315ec2c-29ad-4652-a256-0e00c0f92392)# wishWith-final
+# wishWith-final
 wishWith 프로젝트 최종 제출물 Repository
 
 데모 시연 영상 링크
